@@ -1,0 +1,111 @@
+body{
+    font-family: Montserrat;
+    text-align: center;
+    background-color: #00B4D8;
+    
+  }
+  #refresh{
+    position: relative;
+    left:1%;
+    
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+     
+  }
+  .p-container{
+    position: relative;
+    
+    justify-content: center;
+    align-items: center;
+    width: 30%;
+    left: 35%;
+    
+  }
+  
+  .container-fluid{
+    padding: 0% 2%;
+  }
+  
+  .navbar-brand{
+    font-family: "Montserrat";
+    font-size: 2rem;
+    color: white;
+  }
+  
+  p{
+    font-family: "Montserrat";
+    line-height: 1.5;
+    text-align: center;
+    color: white;
+  }
+  .container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    
+  }
+  .teach-image-container {
+    
+    
+    width: 100%;
+    
+  }
+
+  .teach-image {
+    display: inline;
+  }
+
+  
+
+  #refresh {
+    display: inline-block;
+    text-align: center;
+    position: relative;
+    margin-top: 10px;
+    margin-bottom: 10px;
+     
+
+  }
+  /* Mobile Adaptability */
+  @media (max-width: 1200px) {
+    .container{
+        display: block;
+    }
+    #refresh{
+        position: relative;
+        left:1%;
+        display: inline-block;
+        text-align: center;  
+    }
+    .sign-image {
+        margin: 3% auto;
+        width: 80%;
+        height: 80%;
+      }
+    #teach-image {
+        width: 80%;
+        height: 80%;
+
+        display: block;
+        margin: 3% auto;
+      }
+    .teach-image-container {
+        display: inline;
+      }
+    .p-container{
+        position: relative;
+        
+        justify-content: center;
+        align-items: center;
+        width: 30%;
+        left: 37%;
+        
+      }
+    .sign-image-container{
+        display: inline;
+        align-items: center;
+        
+      }
+  }
