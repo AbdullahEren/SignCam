@@ -1,20 +1,20 @@
 # SignCam
 Real time hand gesture recognition web app  
 
-#Photos
+<h1>Photos</h1>
 <br>
-Main Page
+<h2>Main Page</h2>
 
 ![alt text](/images/signcamMenu.png)
 
-About
+<h2>About</h2>
 
 ![alt text](/images/about.png)
 
-Demo
+<h2>Demo</h2>
 
 ![alt text](/images/demo.png)
 
-#Author
+<h1>Author</h1>
 
 Abdullah Eren Yürek
