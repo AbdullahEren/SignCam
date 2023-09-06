@@ -5,7 +5,7 @@ Real time hand gesture recognition web app
 <br>
 <h2>Main Page</h2>
 
-![alt text](/images/signcamMenu.png)
+![alt text](/images/signcam-home.png)
 
 <h2>About</h2>
 
