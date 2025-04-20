@@ -1,7 +1,7 @@
 # SignCam
 Real time hand gesture recognition web app  
-<h1>Description<h1>
-<p>In this project I use OpenCV to use my model which I created with my own data and CNN model with tensorflow. For the web gui part I used Django.</p>
+# Description
+In this project I use OpenCV to use my model which I created with my own data and CNN model with tensorflow. For the web gui part I used Django.
   
 <h1>Photos</h1>
 <br>
